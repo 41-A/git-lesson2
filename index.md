@@ -14,4 +14,4 @@ print('Hello, world!')
 
 ![](https://raw.githubusercontent.com/RSE-Sheffield/RSE-Sheffield.github.io/master/assets/images/logo/rse-logoonly-stroke-small.png)
 
-[Link to another page] (http://www.google.co.uk)
+[Link to another page](http://www.google.co.uk)
